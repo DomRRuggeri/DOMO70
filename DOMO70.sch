@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:DOMO70-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -44,6 +45,39 @@ F 1 "proton_c" H 2425 4086 50  0000 C CNN
 F 2 "" H 2300 5700 50  0001 C CNN
 F 3 "" H 2300 5700 50  0001 C CNN
 	1    2450 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L OLED-SSD1306-4pin-128x32:OLED-SSD1306-OLED-SSD1306-4pin-128x32 U?
+U 1 1 5DFD98F6
+P 5700 4850
+F 0 "U?" H 5617 5225 50  0000 C CNN
+F 1 "OLED-SSD1306-OLED-SSD1306-4pin-128x32" H 5617 5134 50  0000 C CNN
+F 2 "" H 5700 5250 50  0001 C CNN
+F 3 "" H 5700 5250 50  0001 C CNN
+	1    5700 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 5DFDA3D1
+P 3750 3250
+F 0 "SW?" H 3750 3617 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 3750 3526 50  0000 C CNN
+F 2 "" H 3600 3410 50  0001 C CNN
+F 3 "~" H 3750 3510 50  0001 C CNN
+	1    3750 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 5DFDAD55
+P 4700 3300
+F 0 "SW?" H 4700 3667 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 4700 3576 50  0000 C CNN
+F 2 "" H 4550 3460 50  0001 C CNN
+F 3 "~" H 4700 3560 50  0001 C CNN
+	1    4700 3300
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
