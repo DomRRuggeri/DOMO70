@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/Dom/Documents/PCB/DOMO70/MX_Alps_Hybrid)(options "")(descr ""))
+  (lib (name qmk_hardware)(type KiCad)(uri C:/Users/Dom/Documents/PCB/DOMO70/qmk_hardware)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/Dom/Documents/PCB/DOMO70/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name OLED-SSD1306-4pin-128x32)(type KiCad)(uri C:/Users/Dom/Documents/PCB/DOMO70/OLED-SSD1306-4pin-128x32)(options "")(descr ""))
+)
