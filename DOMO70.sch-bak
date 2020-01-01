@@ -951,27 +951,27 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E055AEC
-P 8900 3600
-F 0 "MX?" H 8933 3823 60  0000 C CNN
-F 1 "MX-NoLED" H 8933 3749 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8275 3575 60  0001 C CNN
-F 3 "" H 8275 3575 60  0001 C CNN
-	1    8900 3600
+P 6800 3600
+F 0 "MX?" H 6833 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6833 3749 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6175 3575 60  0001 C CNN
+F 3 "" H 6175 3575 60  0001 C CNN
+	1    6800 3600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E055AF2
-P 8750 3900
-F 0 "D?" V 8796 3821 50  0000 R CNN
-F 1 "1N4148" V 8705 3821 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8750 3725 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8750 3900 50  0001 C CNN
-	1    8750 3900
+P 6650 3900
+F 0 "D?" V 6696 3821 50  0000 R CNN
+F 1 "1N4148" V 6605 3821 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6650 3725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6650 3900 50  0001 C CNN
+	1    6650 3900
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8750 3750 8850 3750
+	6650 3750 6750 3750
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E055AF9
@@ -1119,27 +1119,27 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F504
-P 7700 3600
-F 0 "MX?" H 7733 3823 60  0000 C CNN
-F 1 "MX-NoLED" H 7733 3749 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7075 3575 60  0001 C CNN
-F 3 "" H 7075 3575 60  0001 C CNN
-	1    7700 3600
+P 5450 4350
+F 0 "MX?" H 5483 4573 60  0000 C CNN
+F 1 "MX-NoLED" H 5483 4499 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4825 4325 60  0001 C CNN
+F 3 "" H 4825 4325 60  0001 C CNN
+	1    5450 4350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F50A
-P 7550 3900
-F 0 "D?" V 7596 3821 50  0000 R CNN
-F 1 "1N4148" V 7505 3821 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7550 3725 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7550 3900 50  0001 C CNN
-	1    7550 3900
+P 5300 4650
+F 0 "D?" V 5346 4571 50  0000 R CNN
+F 1 "1N4148" V 5255 4571 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5300 4475 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5300 4650 50  0001 C CNN
+	1    5300 4650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	7550 3750 7650 3750
+	5300 4500 5400 4500
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F511
@@ -1335,51 +1335,51 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F5E1
-P 7700 2850
-F 0 "MX?" H 7733 3073 60  0000 C CNN
-F 1 "MX-NoLED" H 7733 2999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7075 2825 60  0001 C CNN
-F 3 "" H 7075 2825 60  0001 C CNN
-	1    7700 2850
+P 5000 4350
+F 0 "MX?" H 5033 4573 60  0000 C CNN
+F 1 "MX-NoLED" H 5033 4499 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4375 4325 60  0001 C CNN
+F 3 "" H 4375 4325 60  0001 C CNN
+	1    5000 4350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F5E7
-P 7550 3150
-F 0 "D?" V 7596 3071 50  0000 R CNN
-F 1 "1N4148" V 7505 3071 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7550 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7550 3150 50  0001 C CNN
-	1    7550 3150
+P 4850 4650
+F 0 "D?" V 4896 4571 50  0000 R CNN
+F 1 "1N4148" V 4805 4571 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 4475 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4850 4650 50  0001 C CNN
+	1    4850 4650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	7550 3000 7650 3000
+	4850 4500 4950 4500
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F5EE
-P 8450 2850
-F 0 "MX?" H 8483 3073 60  0000 C CNN
-F 1 "MX-NoLED" H 8483 2999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7825 2825 60  0001 C CNN
-F 3 "" H 7825 2825 60  0001 C CNN
-	1    8450 2850
+P 6800 2850
+F 0 "MX?" H 6833 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 6833 2999 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6175 2825 60  0001 C CNN
+F 3 "" H 6175 2825 60  0001 C CNN
+	1    6800 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F5F4
-P 8300 3150
-F 0 "D?" V 8346 3071 50  0000 R CNN
-F 1 "1N4148" V 8255 3071 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8300 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8300 3150 50  0001 C CNN
-	1    8300 3150
+P 6650 3150
+F 0 "D?" V 6696 3071 50  0000 R CNN
+F 1 "1N4148" V 6605 3071 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6650 2975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6650 3150 50  0001 C CNN
+	1    6650 3150
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8300 3000 8400 3000
+	6650 3000 6750 3000
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F5FB
@@ -1407,27 +1407,27 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F615
-P 8900 2850
-F 0 "MX?" H 8933 3073 60  0000 C CNN
-F 1 "MX-NoLED" H 8933 2999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8275 2825 60  0001 C CNN
-F 3 "" H 8275 2825 60  0001 C CNN
-	1    8900 2850
+P 7250 2850
+F 0 "MX?" H 7283 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 7283 2999 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6625 2825 60  0001 C CNN
+F 3 "" H 6625 2825 60  0001 C CNN
+	1    7250 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F61B
-P 8750 3150
-F 0 "D?" V 8796 3071 50  0000 R CNN
-F 1 "1N4148" V 8705 3071 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8750 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8750 3150 50  0001 C CNN
-	1    8750 3150
+P 7100 3150
+F 0 "D?" V 7146 3071 50  0000 R CNN
+F 1 "1N4148" V 7055 3071 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 2975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7100 3150 50  0001 C CNN
+	1    7100 3150
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8750 3000 8850 3000
+	7100 3000 7200 3000
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F622
@@ -1501,27 +1501,27 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F670
-P 9350 3600
-F 0 "MX?" H 9383 3823 60  0000 C CNN
-F 1 "MX-NoLED" H 9383 3749 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8725 3575 60  0001 C CNN
-F 3 "" H 8725 3575 60  0001 C CNN
-	1    9350 3600
+P 4550 4350
+F 0 "MX?" H 4583 4573 60  0000 C CNN
+F 1 "MX-NoLED" H 4583 4499 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3925 4325 60  0001 C CNN
+F 3 "" H 3925 4325 60  0001 C CNN
+	1    4550 4350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F676
-P 9200 3900
-F 0 "D?" V 9246 3821 50  0000 R CNN
-F 1 "1N4148" V 9155 3821 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 3725 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 3900 50  0001 C CNN
-	1    9200 3900
+P 4400 4650
+F 0 "D?" V 4446 4571 50  0000 R CNN
+F 1 "1N4148" V 4355 4571 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4400 4475 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4400 4650 50  0001 C CNN
+	1    4400 4650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	9200 3750 9300 3750
+	4400 4500 4500 4500
 Wire Wire Line
 	950  1800 1250 1800
 Connection ~ 1250 1800
@@ -1637,7 +1637,7 @@ Wire Wire Line
 	5300 4050 5750 4050
 Connection ~ 5750 4050
 Wire Wire Line
-	5750 4050 7100 4050
+	5750 4050 6200 4050
 Wire Wire Line
 	4850 3300 5300 3300
 Connection ~ 5300 3300
@@ -1721,8 +1721,6 @@ Wire Wire Line
 	2900 2800 2900 3550
 Wire Wire Line
 	2900 3550 2900 4300
-Wire Wire Line
-	7850 2800 7850 3550
 Wire Wire Line
 	6500 2050 6500 2800
 Wire Wire Line
@@ -1891,35 +1889,35 @@ Text GLabel 12700 3650 0    50   Input ~ 0
 SDA
 Text GLabel 12700 3750 0    50   Input ~ 0
 SCL
-Text GLabel 8750 1950 2    50   Input ~ 0
+Text GLabel 8600 2850 2    50   Input ~ 0
 ENC1A
-Text GLabel 8750 1750 2    50   Input ~ 0
+Text GLabel 8600 2650 2    50   Input ~ 0
 ENC1B
 $Comp
 L power:GND #PWR?
 U 1 1 5E3E5007
-P 8750 1850
-F 0 "#PWR?" H 8750 1600 50  0001 C CNN
-F 1 "GND" V 8755 1722 50  0000 R CNN
-F 2 "" H 8750 1850 50  0001 C CNN
-F 3 "" H 8750 1850 50  0001 C CNN
-	1    8750 1850
+P 8600 2750
+F 0 "#PWR?" H 8600 2500 50  0001 C CNN
+F 1 "GND" V 8605 2622 50  0000 R CNN
+F 2 "" H 8600 2750 50  0001 C CNN
+F 3 "" H 8600 2750 50  0001 C CNN
+	1    8600 2750
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 5E3E5D10
-P 10300 1150
-F 0 "#PWR?" H 10300 900 50  0001 C CNN
-F 1 "GND" V 10305 1022 50  0000 R CNN
-F 2 "" H 10300 1150 50  0001 C CNN
-F 3 "" H 10300 1150 50  0001 C CNN
-	1    10300 1150
+P 8600 4250
+F 0 "#PWR?" H 8600 4000 50  0001 C CNN
+F 1 "GND" V 8605 4122 50  0000 R CNN
+F 2 "" H 8600 4250 50  0001 C CNN
+F 3 "" H 8600 4250 50  0001 C CNN
+	1    8600 4250
 	0    -1   -1   0   
 $EndComp
-Text GLabel 10300 1050 2    50   Input ~ 0
+Text GLabel 8600 4150 2    50   Input ~ 0
 ENC2B
-Text GLabel 10300 1250 2    50   Input ~ 0
+Text GLabel 8600 4350 2    50   Input ~ 0
 ENC2A
 Text GLabel 12400 6000 0    50   Input ~ 0
 ENC1B
@@ -2098,27 +2096,27 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E09F67D
-P 8450 3600
-F 0 "MX?" H 8483 3823 60  0000 C CNN
-F 1 "MX-NoLED" H 8483 3749 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7825 3575 60  0001 C CNN
-F 3 "" H 7825 3575 60  0001 C CNN
-	1    8450 3600
+P 7250 2100
+F 0 "MX?" H 7283 2323 60  0000 C CNN
+F 1 "MX-NoLED" H 7283 2249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6625 2075 60  0001 C CNN
+F 3 "" H 6625 2075 60  0001 C CNN
+	1    7250 2100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5E09F683
-P 8300 3900
-F 0 "D?" V 8346 3821 50  0000 R CNN
-F 1 "1N4148" V 8255 3821 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8300 3725 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8300 3900 50  0001 C CNN
-	1    8300 3900
+P 7100 2400
+F 0 "D?" V 7146 2321 50  0000 R CNN
+F 1 "1N4148" V 7055 2321 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7100 2400 50  0001 C CNN
+	1    7100 2400
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8300 3750 8400 3750
+	7100 2250 7200 2250
 Wire Wire Line
 	5300 1800 5750 1800
 Connection ~ 5750 1800
@@ -2130,9 +2128,6 @@ Wire Wire Line
 Connection ~ 6650 1800
 Wire Wire Line
 	6650 1800 7100 1800
-Connection ~ 7100 1800
-Wire Wire Line
-	7100 1800 7550 1800
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5E21E26B
@@ -2190,59 +2185,30 @@ Connection ~ 4400 3300
 Connection ~ 4850 3300
 $Comp
 L Diode:1N4148 D?
-U 1 1 5E6A5E71
-P 8050 2350
-F 0 "D?" V 8096 2271 50  0000 R CNN
-F 1 "1N4148" V 8005 2271 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8050 2175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8050 2350 50  0001 C CNN
-	1    8050 2350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Diode:1N4148 D?
 U 1 1 5E6A75B4
-P 9600 1650
-F 0 "D?" V 9646 1571 50  0000 R CNN
-F 1 "1N4148" V 9555 1571 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9600 1475 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 1650 50  0001 C CNN
-	1    9600 1650
+P 7550 4650
+F 0 "D?" V 7596 4571 50  0000 R CNN
+F 1 "1N4148" V 7505 4571 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7550 4475 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7550 4650 50  0001 C CNN
+	1    7550 4650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	7650 2250 7550 2250
-Wire Wire Line
-	6650 2550 7550 2550
-Connection ~ 6650 2550
-Wire Wire Line
-	7850 1300 7850 2050
 Connection ~ 4400 4050
 Connection ~ 5150 2800
 Connection ~ 5600 2800
 Connection ~ 6050 2800
-Wire Wire Line
-	7100 4050 7550 4050
-Connection ~ 7100 4050
-Wire Wire Line
-	6200 3300 7550 3300
-Connection ~ 6200 3300
-Wire Wire Line
-	7850 2050 7850 2800
-Connection ~ 7850 2050
-Connection ~ 7850 2800
-Wire Wire Line
-	7400 1300 7400 3550
 Connection ~ 6050 3550
 Wire Wire Line
 	5750 4800 6200 4800
 Connection ~ 6200 4800
-Connection ~ 7400 3550
 Wire Wire Line
-	6500 2800 6500 4300
+	6500 2800 6500 3550
 Connection ~ 6500 2800
 Wire Wire Line
-	6950 2050 6950 4300
+	6950 2050 6950 2800
 Connection ~ 6950 2050
 Wire Wire Line
 	2150 4800 2600 4800
@@ -2251,52 +2217,36 @@ Connection ~ 5750 4800
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 5EAC1E1F
-P 9350 2850
-F 0 "MX?" H 9383 3073 60  0000 C CNN
-F 1 "MX-NoLED" H 9383 2999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8725 2825 60  0001 C CNN
-F 3 "" H 8725 2825 60  0001 C CNN
-	1    9350 2850
+P 6350 3600
+F 0 "MX?" H 6383 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6383 3749 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5725 3575 60  0001 C CNN
+F 3 "" H 5725 3575 60  0001 C CNN
+	1    6350 3600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4148 D?
 U 1 1 5EAC1E25
-P 9200 3150
-F 0 "D?" V 9246 3071 50  0000 R CNN
-F 1 "1N4148" V 9155 3071 50  0000 R CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 2975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 3150 50  0001 C CNN
-	1    9200 3150
+P 6200 3900
+F 0 "D?" V 6246 3821 50  0000 R CNN
+F 1 "1N4148" V 6155 3821 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6200 3725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 3900 50  0001 C CNN
+	1    6200 3900
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	9200 3000 9300 3000
+	6200 3750 6300 3750
 Wire Wire Line
 	3050 4800 3500 4800
 Connection ~ 3500 4800
 Wire Wire Line
 	3500 4800 3950 4800
 Wire Wire Line
-	8300 4050 8750 4050
-Connection ~ 8750 4050
-Wire Wire Line
-	8750 4050 9200 4050
-Wire Wire Line
-	8300 3300 8750 3300
-Connection ~ 8750 3300
-Wire Wire Line
-	8750 3300 9200 3300
-Wire Wire Line
-	8600 2800 8600 3550
-Wire Wire Line
 	3350 3550 3350 4300
 Wire Wire Line
-	9500 2800 9500 3550
-Wire Wire Line
 	4250 3550 4250 4300
-Wire Wire Line
-	9050 2800 9050 3550
 Wire Wire Line
 	3800 3550 3800 4300
 Text GLabel 5600 1050 1    50   Input ~ 0
@@ -2325,14 +2275,6 @@ Wire Wire Line
 Connection ~ 6950 1300
 Wire Wire Line
 	7400 1050 7400 1300
-Connection ~ 7400 1300
-Wire Wire Line
-	7850 1050 7850 1300
-Connection ~ 7850 1300
-Wire Wire Line
-	9700 1250 9600 1250
-Wire Wire Line
-	9600 1250 9600 1500
 Connection ~ 2600 4800
 Connection ~ 2900 3550
 Wire Wire Line
@@ -2341,68 +2283,183 @@ Connection ~ 3050 4800
 Connection ~ 3350 3550
 Connection ~ 3800 3550
 Connection ~ 3950 4800
-Wire Wire Line
-	3950 4800 5750 4800
 Connection ~ 4250 3550
-Wire Wire Line
-	8050 1950 8150 1950
-Wire Wire Line
-	8050 2200 8050 1950
 $Comp
 L Device:Rotary_Encoder_Switch SW?
 U 1 1 5DFDA3D1
-P 8450 1850
-F 0 "SW?" H 8450 2217 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 8450 2126 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8300 2010 50  0001 C CNN
-F 3 "~" H 8450 2110 50  0001 C CNN
-	1    8450 1850
+P 8300 2750
+F 0 "SW?" H 8300 3117 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 8300 3026 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8150 2910 50  0001 C CNN
+F 3 "~" H 8300 3010 50  0001 C CNN
+	1    8300 2750
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:Rotary_Encoder_Switch SW?
 U 1 1 5DFDAD55
-P 10000 1150
-F 0 "SW?" H 10000 1517 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 10000 1426 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 9850 1310 50  0001 C CNN
-F 3 "~" H 10000 1410 50  0001 C CNN
-	1    10000 1150
+P 8300 4250
+F 0 "SW?" H 8300 4617 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 8300 4526 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8150 4410 50  0001 C CNN
+F 3 "~" H 8300 4510 50  0001 C CNN
+	1    8300 4250
 	-1   0    0    1   
 $EndComp
-Text GLabel 15050 2950 2    50   Input ~ 0
+Text GLabel 14450 5900 2    50   Input ~ 0
 COL0
-Text GLabel 15050 3400 2    50   Input ~ 0
+Text GLabel 14450 6000 2    50   Input ~ 0
 COL1
-Text GLabel 15050 3850 2    50   Input ~ 0
+Text GLabel 14450 6100 2    50   Input ~ 0
 COL2
-Text GLabel 15050 4300 2    50   Input ~ 0
+Text GLabel 14450 6900 2    50   Input ~ 0
 COL3
-Text GLabel 15050 4750 2    50   Input ~ 0
+Text GLabel 14450 7000 2    50   Input ~ 0
 COL4
-Text GLabel 15050 5200 2    50   Input ~ 0
+Text GLabel 14450 7100 2    50   Input ~ 0
 COL5
-Text GLabel 15050 5650 2    50   Input ~ 0
+Text GLabel 14450 7200 2    50   Input ~ 0
 COL6
-Text GLabel 15050 6100 2    50   Input ~ 0
+Text GLabel 14450 7300 2    50   Input ~ 0
 COL7
-Text GLabel 15050 6550 2    50   Input ~ 0
+Text GLabel 12400 7300 0    50   Input ~ 0
 COL8
-Text GLabel 15050 7000 2    50   Input ~ 0
+Text GLabel 12400 5900 0    50   Input ~ 0
 COL9
-Text GLabel 15050 7450 2    50   Input ~ 0
+Text GLabel 12400 5800 0    50   Input ~ 0
 COL10
-Text GLabel 15050 7900 2    50   Input ~ 0
+Text GLabel 12400 5700 0    50   Input ~ 0
 COL11
-Text GLabel 15050 8350 2    50   Input ~ 0
+Text GLabel 12400 5600 0    50   Input ~ 0
 COL12
-Text GLabel 15050 8800 2    50   Input ~ 0
+Text GLabel 12400 5100 0    50   Input ~ 0
 COL13
-Text GLabel 15050 9250 2    50   Input ~ 0
+Text GLabel 12400 5000 0    50   Input ~ 0
 COL14
 NoConn ~ 14450 6600
 NoConn ~ 14450 6500
 NoConn ~ 14450 6400
 NoConn ~ 14450 6300
 NoConn ~ 14450 7400
+$Comp
+L Diode:1N4148 D?
+U 1 1 5E6A5E71
+P 7550 3150
+F 0 "D?" V 7596 3071 50  0000 R CNN
+F 1 "1N4148" V 7505 3071 50  0000 R CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7550 2975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7550 3150 50  0001 C CNN
+	1    7550 3150
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6950 2800
+Wire Wire Line
+	6950 2800 6950 3550
+Connection ~ 6200 4050
+Wire Wire Line
+	6200 4050 6650 4050
+Connection ~ 6500 3550
+Wire Wire Line
+	6500 3550 6500 4300
+Connection ~ 6650 4050
+Wire Wire Line
+	6650 4050 7100 4050
+Connection ~ 6950 3550
+Wire Wire Line
+	6950 3550 6950 4300
+Connection ~ 5300 4800
+Wire Wire Line
+	5300 4800 5750 4800
+Connection ~ 4400 4800
+Connection ~ 4850 4800
+Wire Wire Line
+	4850 4800 5300 4800
+Wire Wire Line
+	3950 4800 4400 4800
+Wire Wire Line
+	4400 4800 4850 4800
+Wire Wire Line
+	6650 2550 7100 2550
+Connection ~ 6650 2550
+Connection ~ 7100 2550
+Wire Wire Line
+	7100 2550 7550 2550
+Wire Wire Line
+	6200 3300 6650 3300
+Connection ~ 6200 3300
+Connection ~ 6650 3300
+Wire Wire Line
+	6650 3300 7100 3300
+Connection ~ 7100 3300
+Wire Wire Line
+	7100 3300 7550 3300
+Wire Wire Line
+	7400 3550 7400 2800
+Connection ~ 7400 3550
+Connection ~ 7400 1300
+Connection ~ 7400 2050
+Wire Wire Line
+	7400 2050 7400 1300
+Connection ~ 7400 2800
+Wire Wire Line
+	7400 2800 7400 2050
+Wire Wire Line
+	7100 1800 7550 1800
+Connection ~ 7100 1800
+Wire Wire Line
+	7100 4800 7550 4800
+Connection ~ 7100 4800
+Wire Wire Line
+	7550 3000 7700 3000
+Wire Wire Line
+	7700 3000 7700 2850
+Wire Wire Line
+	7700 2850 8000 2850
+Wire Wire Line
+	7550 4500 7700 4500
+Wire Wire Line
+	7700 4500 7700 4350
+Wire Wire Line
+	7700 4350 8000 4350
+Wire Wire Line
+	7850 2050 7850 2650
+Wire Wire Line
+	7850 2650 8000 2650
+Wire Wire Line
+	7850 2650 7850 4150
+Wire Wire Line
+	7850 4150 8000 4150
+Connection ~ 7850 2650
+Wire Wire Line
+	7850 1300 7850 2050
+Connection ~ 7850 2050
+Wire Wire Line
+	7850 1050 7850 1300
+Connection ~ 7850 1300
+$Comp
+L Buzzer_AST1109MLTRQ:AST1109MLTRQ U?
+U 1 1 5F1A4424
+P 6500 5700
+F 0 "U?" H 6500 5975 50  0000 C CNN
+F 1 "AST1109MLTRQ" H 6500 5884 50  0000 C CNN
+F 2 "" H 6500 5700 50  0001 C CNN
+F 3 "" H 6500 5700 50  0001 C CNN
+	1    6500 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5F1A5FE2
+P 6800 5750
+F 0 "#PWR?" H 6800 5500 50  0001 C CNN
+F 1 "GND" V 6805 5622 50  0000 R CNN
+F 2 "" H 6800 5750 50  0001 C CNN
+F 3 "" H 6800 5750 50  0001 C CNN
+	1    6800 5750
+	0    -1   -1   0   
+$EndComp
+Text GLabel 6200 5650 0    50   Input ~ 0
+SPK
+Text GLabel 12400 6900 0    50   Input ~ 0
+SPK
 $EndSCHEMATC

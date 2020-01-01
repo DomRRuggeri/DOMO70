@@ -1,4 +1,4 @@
-16665252981547163
+16670161034529236
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2086,6 +2086,20 @@ buzzer piezo
 2
 2
 Buzzer_Beeper
+Buzzer_D14mm_H7mm_P10mm
+Generic Buzzer, D14mm height 7mm with pitch 10mm
+buzzer
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Mallory_AST1109MLTRQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+Buzzer_Beeper
 Buzzer_Murata_PKMCS0909E4000-R1
 Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
 Murata Buzzer Beeper
@@ -2120,6 +2134,13 @@ MagneticBuzzer Kobitone 254-EMB84Q-RO
 0
 3
 3
+Buzzer_Beeper
+MagneticBuzzer_PUI_AT-0927-TT-6-R
+Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
+Buzzer Magnetic 9mm AT-0927-TT-6-R
+0
+2
+2
 Buzzer_Beeper
 MagneticBuzzer_ProSignal_ABI-009-RC
 Buzzer, Elektromagnetic Beeper, Summer, 6V-DC,
