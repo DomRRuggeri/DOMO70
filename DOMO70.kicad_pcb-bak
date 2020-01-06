@@ -327,7 +327,7 @@
   )
 
   (module OLED-SSD1306-4pin-128x32:OLED-1306-Supports (layer F.Cu) (tedit 5E1384FB) (tstamp 5E1385D6)
-    (at 329.40625 63.5)
+    (at 329.406 63.5)
     (path /5DFD98F6)
     (fp_text reference U2 (at 8.128 11.176) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -377,7 +377,7 @@
   )
 
   (module proton_c:proton_c (layer B.Cu) (tedit 5E128F36) (tstamp 5E13D540)
-    (at 338.1375 61.11875 180)
+    (at 338.138 61.1188 180)
     (path /5DFDC68C)
     (fp_text reference U1 (at 0.01 -3.39 180) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -561,7 +561,7 @@
   )
 
   (module Buzzer_Beeper:Buzzer_Mallory_AST1109MLTRQ (layer B.Cu) (tedit 5D7E8337) (tstamp 5E18C46B)
-    (at 129.38125 126.20625)
+    (at 129.381 126.206)
     (descr "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf")
     (tags "buzzer piezo")
     (path /5FA1957D)
@@ -609,7 +609,7 @@
   )
 
   (module MX_Only:MXOnly-ISO-ReversedStabilizers (layer F.Cu) (tedit 5E122607) (tstamp 5E18773F)
-    (at 297.65625 78.58125)
+    (at 297.656 78.5812)
     (path /5F51972F)
     (fp_text reference MX_29 (at 0.79375 5.55625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -645,7 +645,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13D459)
-    (at 295.275 126.20625)
+    (at 295.275 126.206)
     (path /5F5DA7CD)
     (fp_text reference MX_66 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -675,7 +675,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13D42F)
-    (at 247.65 126.20625)
+    (at 247.65 126.206)
     (path /5F5D790F)
     (fp_text reference MX_64 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -705,7 +705,7 @@
   )
 
   (module MX_Only:MXOnly-7U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5BD3C835) (tstamp 5E13D41A)
-    (at 166.6875 126.20625)
+    (at 166.688 126.206)
     (path /5F4E18F7)
     (fp_text reference MX_62 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -739,7 +739,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13D405)
-    (at 85.725 126.20625)
+    (at 85.725 126.206)
     (path /5F4BE161)
     (fp_text reference MX_61 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -769,7 +769,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13D3DB)
-    (at 38.1 126.20625)
+    (at 38.1 126.206)
     (path /5F47A9B1)
     (fp_text reference MX_59 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -799,7 +799,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D2F4)
-    (at 297.65625 126.20625)
+    (at 297.656 126.206)
     (path /5E09F670)
     (fp_text reference MX66 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -829,7 +829,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D2DF)
-    (at 273.84375 126.20625)
+    (at 273.844 126.206)
     (path /5E055ADF)
     (fp_text reference MX65 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -859,7 +859,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D2CA)
-    (at 250.03125 126.20625)
+    (at 250.031 126.206)
     (path /5E055AD2)
     (fp_text reference MX64 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -889,7 +889,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D2B5)
-    (at 226.21875 126.20625)
+    (at 226.219 126.206)
     (path /5E09F663)
     (fp_text reference MX63 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -919,7 +919,7 @@
   )
 
   (module MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5BD3C7D8) (tstamp 5E13D2A0)
-    (at 154.78125 126.20625)
+    (at 154.781 126.206)
     (path /5E024AA3)
     (fp_text reference MX62 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -953,7 +953,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D28B)
-    (at 83.34375 126.20625)
+    (at 83.3438 126.206)
     (path /5E024A96)
     (fp_text reference MX61 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -983,7 +983,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D276)
-    (at 59.53125 126.20625)
+    (at 59.5312 126.206)
     (path /5E024A89)
     (fp_text reference MX60 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1013,7 +1013,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D261)
-    (at 35.71875 126.20625)
+    (at 35.7188 126.206)
     (path /5E024A7C)
     (fp_text reference MX59 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1043,7 +1043,7 @@
   )
 
   (module MX_Only:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 5E17950D)
-    (at 273.84375 107.15625)
+    (at 273.844 107.156)
     (path /5F8AAED1)
     (fp_text reference MX_56 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1073,7 +1073,7 @@
   )
 
   (module MX_Only:MXOnly-2.75U-NoLED (layer F.Cu) (tedit 5BD3C6FC) (tstamp 5E13D222)
-    (at 283.36875 107.15625)
+    (at 283.369 107.156)
     (path /5EAC1E1F)
     (fp_text reference MX56 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1107,7 +1107,7 @@
   )
 
   (module MX_Only:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5E13D13B)
-    (at 45.24375 107.15625)
+    (at 45.2438 107.156)
     (path /5E01C130)
     (fp_text reference MX45 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1141,7 +1141,7 @@
   )
 
   (module MX_Only:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5E13D111)
-    (at 288.13125 88.10625)
+    (at 288.131 88.1062)
     (path /5E09F5EE)
     (fp_text reference MX43 (at 0 5.55625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1175,7 +1175,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5E13D3B1)
-    (at 35.71875 88.10625)
+    (at 35.7188 88.1062)
     (path /5F459868)
     (fp_text reference MX_31 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1205,7 +1205,7 @@
   )
 
   (module MX_Only:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 5E13D015)
-    (at 40.48125 88.10625)
+    (at 40.4812 88.1062)
     (path /5E01C116)
     (fp_text reference MX31 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1235,7 +1235,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13CFEB)
-    (at 295.275 69.05625)
+    (at 295.275 69.0562)
     (path /5E09F67D)
     (fp_text reference MX29 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1265,7 +1265,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CFD6)
-    (at 271.4625 69.05625)
+    (at 271.462 69.0562)
     (path /5E09F56C)
     (fp_text reference MX28 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1295,7 +1295,7 @@
   )
 
   (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5E13CEDA)
-    (at 38.1 69.05625)
+    (at 38.1 69.0562)
     (path /5DFF08D3)
     (fp_text reference MX16 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1325,7 +1325,7 @@
   )
 
   (module MX_Only:MXOnly-2U-NoLED (layer F.Cu) (tedit 5BD3C72F) (tstamp 5E144943)
-    (at 290.5125 50.00625)
+    (at 290.512 50.0062)
     (path /5F57EBB1)
     (fp_text reference MX_14 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1359,7 +1359,7 @@
   )
 
   (module Buzzer_Beeper:Buzzer_Mallory_AST1109MLTRQ (layer B.Cu) (tedit 5D7E8337) (tstamp 5E17EDC1)
-    (at 192.0875 126.20625)
+    (at 192.088 126.206)
     (descr "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf")
     (tags "buzzer piezo")
     (path /5F1A4424)
@@ -1466,7 +1466,7 @@
   )
 
   (module Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm (layer F.Cu) (tedit 5A74C8CB) (tstamp 5E13D47F)
-    (at 357.98125 44.45 270)
+    (at 357.981 44.45 270)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (path /5DFDA3D1)
@@ -1525,7 +1525,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D444)
-    (at 271.4625 126.20625)
+    (at 271.462 126.206)
     (path /5F5D9067)
     (fp_text reference MX_65 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1555,7 +1555,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D3F0)
-    (at 61.9125 126.20625)
+    (at 61.9125 126.206)
     (path /5F49B8DE)
     (fp_text reference MX_60 (at 0 4.7625) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1585,7 +1585,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D3C6)
-    (at 276.225 88.10625)
+    (at 276.225 88.1062)
     (path /5F5AA751)
     (fp_text reference MX_43 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1615,7 +1615,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E17E251)
-    (at 357.1875 126.20625)
+    (at 357.188 126.206)
     (path /5E09F4F7)
     (fp_text reference MX72 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1645,7 +1645,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D35D)
-    (at 338.1375 126.20625)
+    (at 338.138 126.206)
     (path /5E09F4D0)
     (fp_text reference MX71 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1675,7 +1675,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D348)
-    (at 319.0875 126.20625)
+    (at 319.088 126.206)
     (path /5E09F4C3)
     (fp_text reference MX70 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1705,7 +1705,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D333)
-    (at 357.1875 107.15625)
+    (at 357.188 107.156)
     (path /5E055AF9)
     (fp_text reference MX69 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1735,7 +1735,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D31E)
-    (at 338.1375 107.15625)
+    (at 338.138 107.156)
     (path /5E09F504)
     (fp_text reference MX68 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1765,7 +1765,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D309)
-    (at 319.0875 107.15625)
+    (at 319.088 107.156)
     (path /5E09F5E1)
     (fp_text reference MX67 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1795,7 +1795,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D24C)
-    (at 357.1875 88.10625)
+    (at 357.188 88.1062)
     (path /5E09F622)
     (fp_text reference MX58 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1825,7 +1825,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D237)
-    (at 300.0375 107.15625)
+    (at 300.038 107.156)
     (path /5E055AEC)
     (fp_text reference MX57 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1855,7 +1855,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D20D)
-    (at 247.65 107.15625)
+    (at 247.65 107.156)
     (path /5E09F5FB)
     (fp_text reference MX55 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1885,7 +1885,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D1F8)
-    (at 228.6 107.15625)
+    (at 228.6 107.156)
     (path /5E09F5D4)
     (fp_text reference MX54 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1915,7 +1915,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D1E3)
-    (at 209.55 107.15625)
+    (at 209.55 107.156)
     (path /5E09F5C7)
     (fp_text reference MX53 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1945,7 +1945,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D1CE)
-    (at 190.5 107.15625)
+    (at 190.5 107.156)
     (path /5E055AC5)
     (fp_text reference MX52 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1975,7 +1975,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D1B9)
-    (at 171.45 107.15625)
+    (at 171.45 107.156)
     (path /5E055AB8)
     (fp_text reference MX51 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2005,7 +2005,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D1A4)
-    (at 152.4 107.15625)
+    (at 152.4 107.156)
     (path /5E055A91)
     (fp_text reference MX50 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2035,7 +2035,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D18F)
-    (at 133.35 107.15625)
+    (at 133.35 107.156)
     (path /5E055A84)
     (fp_text reference MX49 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2065,7 +2065,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D17A)
-    (at 114.3 107.15625)
+    (at 114.3 107.156)
     (path /5E01C171)
     (fp_text reference MX48 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2095,7 +2095,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D165)
-    (at 95.25 107.15625)
+    (at 95.25 107.156)
     (path /5E01C164)
     (fp_text reference MX47 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2125,7 +2125,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D150)
-    (at 76.2 107.15625)
+    (at 76.2 107.156)
     (path /5E01C13D)
     (fp_text reference MX46 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2155,7 +2155,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D126)
-    (at 338.1375 88.10625)
+    (at 338.138 88.1062)
     (path /5E09F615)
     (fp_text reference MX44 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2185,7 +2185,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D0FC)
-    (at 257.175 88.10625)
+    (at 257.175 88.1062)
     (path /5E09F51E)
     (fp_text reference MX42 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2215,7 +2215,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D0E7)
-    (at 238.125 88.10625)
+    (at 238.125 88.1062)
     (path /5E09F511)
     (fp_text reference MX41 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2245,7 +2245,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D0D2)
-    (at 219.075 88.10625)
+    (at 219.075 88.1062)
     (path /5E09F4EA)
     (fp_text reference MX40 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2275,7 +2275,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D0BD)
-    (at 200.025 88.10625)
+    (at 200.025 88.1062)
     (path /5E09F4DD)
     (fp_text reference MX39 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2305,7 +2305,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D0A8)
-    (at 180.975 88.10625)
+    (at 180.975 88.1062)
     (path /5E055AAB)
     (fp_text reference MX38 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2335,7 +2335,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D093)
-    (at 161.925 88.10625)
+    (at 161.925 88.1062)
     (path /5E055A9E)
     (fp_text reference MX37 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2365,7 +2365,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D07E)
-    (at 142.875 88.10625)
+    (at 142.875 88.1062)
     (path /5E055A77)
     (fp_text reference MX36 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2395,7 +2395,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D069)
-    (at 123.825 88.10625)
+    (at 123.825 88.1062)
     (path /5E055A6A)
     (fp_text reference MX35 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2425,7 +2425,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D054)
-    (at 104.775 88.10625)
+    (at 104.775 88.1062)
     (path /5E01C157)
     (fp_text reference MX34 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2455,7 +2455,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D03F)
-    (at 85.725 88.10625)
+    (at 85.725 88.1062)
     (path /5E01C14A)
     (fp_text reference MX33 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2485,7 +2485,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D02A)
-    (at 66.675 88.10625)
+    (at 66.675 88.1062)
     (path /5E01C123)
     (fp_text reference MX32 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2515,7 +2515,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13D000)
-    (at 319.0875 88.10625)
+    (at 319.088 88.1062)
     (path /5E09F62F)
     (fp_text reference MX30 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2545,7 +2545,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CFC1)
-    (at 252.4125 69.05625)
+    (at 252.412 69.0562)
     (path /5E09F55F)
     (fp_text reference MX27 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2575,7 +2575,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CFAC)
-    (at 233.3625 69.05625)
+    (at 233.362 69.0562)
     (path /5E09F538)
     (fp_text reference MX26 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2605,7 +2605,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF97)
-    (at 214.3125 69.05625)
+    (at 214.312 69.0562)
     (path /5E09F52B)
     (fp_text reference MX25 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2635,7 +2635,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF82)
-    (at 195.2625 69.05625)
+    (at 195.262 69.0562)
     (path /5E21E26B)
     (fp_text reference MX24 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2665,7 +2665,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF6D)
-    (at 176.2125 69.05625)
+    (at 176.212 69.0562)
     (path /5E055A5D)
     (fp_text reference MX23 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2695,7 +2695,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF58)
-    (at 157.1625 69.05625)
+    (at 157.162 69.0562)
     (path /5E055A50)
     (fp_text reference MX22 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2725,7 +2725,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF43)
-    (at 138.1125 69.05625)
+    (at 138.112 69.0562)
     (path /5E055A29)
     (fp_text reference MX21 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2755,7 +2755,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF2E)
-    (at 119.0625 69.05625)
+    (at 119.062 69.0562)
     (path /5E055A1C)
     (fp_text reference MX20 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2785,7 +2785,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF19)
-    (at 100.0125 69.05625)
+    (at 100.012 69.0562)
     (path /5E002CFE)
     (fp_text reference MX19 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2815,7 +2815,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CF04)
-    (at 80.9625 69.05625)
+    (at 80.9625 69.0562)
     (path /5E002CF1)
     (fp_text reference MX18 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2845,7 +2845,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CEEF)
-    (at 61.9125 69.05625)
+    (at 61.9125 69.0562)
     (path /5DFF10EE)
     (fp_text reference MX17 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2875,7 +2875,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CEC5)
-    (at 300.0375 50.00625)
+    (at 300.038 50.0062)
     (path /5E09F656)
     (fp_text reference MX15 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2905,7 +2905,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CEB0)
-    (at 280.9875 50.00625)
+    (at 280.988 50.0062)
     (path /5E09F649)
     (fp_text reference MX14 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2935,7 +2935,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE9B)
-    (at 261.9375 50.00625)
+    (at 261.938 50.0062)
     (path /5E09F586)
     (fp_text reference MX13 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2965,7 +2965,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE86)
-    (at 242.8875 50.00625)
+    (at 242.888 50.0062)
     (path /5E09F579)
     (fp_text reference MX12 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2995,7 +2995,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE71)
-    (at 223.8375 50.00625)
+    (at 223.838 50.0062)
     (path /5E09F552)
     (fp_text reference MX11 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3025,7 +3025,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE5C)
-    (at 204.7875 50.00625)
+    (at 204.788 50.0062)
     (path /5E09F545)
     (fp_text reference MX10 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3055,7 +3055,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE47)
-    (at 185.7375 50.00625)
+    (at 185.738 50.0062)
     (path /5E1DC192)
     (fp_text reference MX9 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3085,7 +3085,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE32)
-    (at 166.6875 50.00625)
+    (at 166.688 50.0062)
     (path /5E055A43)
     (fp_text reference MX8 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3115,7 +3115,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE1D)
-    (at 147.6375 50.00625)
+    (at 147.638 50.0062)
     (path /5E055A36)
     (fp_text reference MX7 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3145,7 +3145,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CE08)
-    (at 128.5875 50.00625)
+    (at 128.588 50.0062)
     (path /5E055A0F)
     (fp_text reference MX6 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3175,7 +3175,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CDF3)
-    (at 109.5375 50.00625)
+    (at 109.538 50.0062)
     (path /5E055A02)
     (fp_text reference MX5 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3205,7 +3205,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CDDE)
-    (at 90.4875 50.00625)
+    (at 90.4875 50.0062)
     (path /5E002CE4)
     (fp_text reference MX4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3235,7 +3235,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CDC9)
-    (at 71.4375 50.00625)
+    (at 71.4375 50.0062)
     (path /5E002CD7)
     (fp_text reference MX3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3265,7 +3265,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CDB4)
-    (at 52.3875 50.00625)
+    (at 52.3875 50.0062)
     (path /5DFEFBD3)
     (fp_text reference MX2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3295,7 +3295,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5E13CD9F)
-    (at 33.3375 50.00625)
+    (at 33.3375 50.0062)
     (path /5DFD965C)
     (fp_text reference MX1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3325,7 +3325,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CD8A)
-    (at 326.23125 73.025 90)
+    (at 326.231 73.025 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E6A75B4)
@@ -3381,7 +3381,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CD6A)
-    (at 354.0125 73.025 90)
+    (at 354.012 73.025 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E6A5E71)
@@ -3773,7 +3773,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CC8A)
-    (at 307.18125 130.175 90)
+    (at 307.181 130.175 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F676)
@@ -3829,7 +3829,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CC6A)
-    (at 283.36875 130.175 90)
+    (at 283.369 130.175 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055AE5)
@@ -3885,7 +3885,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CC4A)
-    (at 259.55625 130.175 90)
+    (at 259.556 130.175 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055AD8)
@@ -3941,7 +3941,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CC2A)
-    (at 235.74375 130.175 90)
+    (at 235.744 130.175 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F669)
@@ -3997,7 +3997,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CC0A)
-    (at 179.3875 130.175 90)
+    (at 179.388 130.175 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E024AA9)
@@ -4333,7 +4333,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CB4A)
-    (at 262.73125 111.125 90)
+    (at 262.731 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5EAC1E25)
@@ -4389,7 +4389,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CB2A)
-    (at 255.5875 111.125 90)
+    (at 255.588 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F601)
@@ -4445,7 +4445,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CB0A)
-    (at 236.5375 111.125 90)
+    (at 236.538 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F5DA)
@@ -4501,7 +4501,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CAEA)
-    (at 217.4875 111.125 90)
+    (at 217.488 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F5CD)
@@ -4557,7 +4557,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CACA)
-    (at 198.4375 111.125 90)
+    (at 198.438 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055ACB)
@@ -4613,7 +4613,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CAAA)
-    (at 179.3875 111.125 90)
+    (at 179.388 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055ABE)
@@ -4669,7 +4669,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CA8A)
-    (at 160.3375 111.125 90)
+    (at 160.338 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055A97)
@@ -4725,7 +4725,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CA6A)
-    (at 141.2875 111.125 90)
+    (at 141.288 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055A8A)
@@ -4781,7 +4781,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CA4A)
-    (at 122.2375 111.125 90)
+    (at 122.238 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E01C177)
@@ -4837,7 +4837,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13CA2A)
-    (at 103.1875 111.125 90)
+    (at 103.188 111.125 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E01C16A)
@@ -5005,7 +5005,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C9CA)
-    (at 334.16875 94.45625)
+    (at 334.169 94.4562)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F61B)
@@ -5061,7 +5061,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C9AA)
-    (at 268.2875 95.25 90)
+    (at 268.288 95.25 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F5F4)
@@ -5117,7 +5117,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C98A)
-    (at 265.1125 92.075 90)
+    (at 265.112 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F524)
@@ -5173,7 +5173,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C96A)
-    (at 246.0625 92.075 90)
+    (at 246.062 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F517)
@@ -5229,7 +5229,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C94A)
-    (at 227.0125 92.075 90)
+    (at 227.012 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F4F0)
@@ -5285,7 +5285,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C92A)
-    (at 207.9625 92.075 90)
+    (at 207.962 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F4E3)
@@ -5341,7 +5341,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C90A)
-    (at 188.9125 92.075 90)
+    (at 188.912 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055AB1)
@@ -5397,7 +5397,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C8EA)
-    (at 169.8625 92.075 90)
+    (at 169.862 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055AA4)
@@ -5453,7 +5453,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C8CA)
-    (at 150.8125 92.075 90)
+    (at 150.812 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055A7D)
@@ -5509,7 +5509,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C8AA)
-    (at 131.7625 92.075 90)
+    (at 131.762 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E055A70)
@@ -5565,7 +5565,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C88A)
-    (at 112.7125 92.075 90)
+    (at 112.712 92.075 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E01C15D)
@@ -5789,7 +5789,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E190DE7)
-    (at 315.11875 94.45625)
+    (at 315.119 94.4562)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F635)
@@ -5845,7 +5845,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C7EA)
-    (at 307.18125 76.99375 90)
+    (at 307.181 76.9938 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F683)
@@ -6573,7 +6573,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E13C64A)
-    (at 48.41875 73.025 90)
+    (at 48.4188 73.025 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DFF08D9)
@@ -6685,7 +6685,7 @@
   )
 
   (module cftkb:D_DO-35_SOD27_P5.08mm_Horizontal (layer B.Cu) (tedit 5DEBED86) (tstamp 5E1449AA)
-    (at 273.05 56.35625 90)
+    (at 273.05 56.3562 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5E09F64F)
