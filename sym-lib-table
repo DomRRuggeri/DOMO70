@@ -4,4 +4,5 @@
   (lib (name OLED-SSD1306-4pin-128x32)(type Legacy)(uri C:/Users/Dom/Documents/PCB/DOMO70/OLED-SSD1306-4pin-128x32/OLED-SSD1306-4pin-128x32.lib)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name Buzzer_AST1109MLTRQ)(type Legacy)(uri ${KIPRJMOD}/Buzzer_AST1109MLTRQ/Buzzer_AST1109MLTRQ.lib)(options "")(descr ""))
+  (lib (name DomsParts)(type Legacy)(uri ${KIPRJMOD}/DomsParts.lib)(options "")(descr ""))
 )
