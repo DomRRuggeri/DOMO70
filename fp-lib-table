@@ -6,4 +6,5 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/cftkb.pretty)(options "")(descr ""))
   (lib (name Buzzer_Beeper)(type KiCad)(uri ${KIPRJMOD}/kicad-footprints/Buzzer_Beeper.pretty)(options "")(descr ""))
+  (lib (name Images)(type KiCad)(uri ${KIPRJMOD}/Images)(options "")(descr ""))
 )
