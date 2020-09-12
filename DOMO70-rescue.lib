@@ -1,25 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Buzzer_AST1109MLTRQ_AST1109MLTRQ
+# 1N4148-Diode
 #
-DEF Buzzer_AST1109MLTRQ_AST1109MLTRQ U 0 40 Y Y 1 F N
-F0 "U" 0 -150 50 H V C CNN
-F1 "Buzzer_AST1109MLTRQ_AST1109MLTRQ" 0 150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-S -200 100 200 -100 0 1 0 N
-X SPK 1 -300 50 100 R 50 50 1 1 I
-X GND 2 300 -50 100 L 50 50 1 1 B
-ENDDRAW
-ENDDEF
-#
-# DOMO70-rescue_1N4148-Diode
-#
-DEF DOMO70-rescue_1N4148-Diode D 0 40 N N 1 F N
+DEF 1N4148-Diode D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "DOMO70-rescue_1N4148-Diode" 0 -100 50 H V C CNN
+F1 "1N4148-Diode" 0 -100 50 H V C CNN
 F2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -34,11 +20,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# DOMO70-rescue_GND-power
+# GND-power
 #
-DEF DOMO70-rescue_GND-power #PWR 0 0 Y Y 1 F P
+DEF GND-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "DOMO70-rescue_GND-power" 0 -150 50 H V C CNN
+F1 "GND-power" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -47,11 +33,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# DOMO70-rescue_MX-NoLED-MX_Alps_Hybrid
+# MX-NoLED-MX_Alps_Hybrid
 #
-DEF DOMO70-rescue_MX-NoLED-MX_Alps_Hybrid MX 0 40 Y Y 1 F N
+DEF MX-NoLED-MX_Alps_Hybrid MX 0 40 Y Y 1 F N
 F0 "MX" -25 150 60 H V C CNN
-F1 "DOMO70-rescue_MX-NoLED-MX_Alps_Hybrid" -25 50 20 H V C CNN
+F1 "MX-NoLED-MX_Alps_Hybrid" -25 50 20 H V C CNN
 F2 "" -625 -25 60 H I C CNN
 F3 "" -625 -25 60 H I C CNN
 DRAW
@@ -65,11 +51,11 @@ X ROW 2 -50 -150 100 U 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# DOMO70-rescue_Rotary_Encoder_Switch-Device
+# Rotary_Encoder_Switch-Device
 #
-DEF DOMO70-rescue_Rotary_Encoder_Switch-Device SW 0 10 Y N 1 F N
+DEF Rotary_Encoder_Switch-Device SW 0 10 Y N 1 F N
 F0 "SW" 0 260 50 H V C CNN
-F1 "DOMO70-rescue_Rotary_Encoder_Switch-Device" 0 -260 50 H V C CNN
+F1 "Rotary_Encoder_Switch-Device" 0 -260 50 H V C CNN
 F2 "" -150 160 50 H I C CNN
 F3 "" 0 260 50 H I C CNN
 $FPLIST
@@ -103,11 +89,11 @@ X S2 S2 300 -100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# DOMO70-rescue_VCC-power
+# VCC-power
 #
-DEF DOMO70-rescue_VCC-power #PWR 0 0 Y Y 1 F P
+DEF VCC-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "DOMO70-rescue_VCC-power" 0 150 50 H V C CNN
+F1 "VCC-power" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -117,11 +103,11 @@ X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# DOMO70-rescue_proton_c-proton_c
+# proton_c-proton_c
 #
-DEF DOMO70-rescue_proton_c-proton_c U 0 40 Y Y 1 F N
+DEF proton_c-proton_c U 0 40 Y Y 1 F N
 F0 "U" 0 0 50 H V C CNN
-F1 "DOMO70-rescue_proton_c-proton_c" 0 100 50 H V C CNN
+F1 "proton_c-proton_c" 0 100 50 H V C CNN
 F2 "" -150 0 50 H I C CNN
 F3 "" -150 0 50 H I C CNN
 $FPLIST
@@ -203,35 +189,6 @@ X GND GND -1050 800 200 R 50 50 1 1 B
 X GND GND 1000 900 200 L 50 50 1 1 B
 X LED LED -1050 -450 200 R 50 50 1 1 B
 X RESET RST 1000 -1400 200 L 50 50 1 1 B
-ENDDRAW
-ENDDEF
-#
-# DomsParts_ExtraMX
-#
-DEF DomsParts_ExtraMX MX_ 0 40 Y Y 1 F N
-F0 "MX_" 150 150 50 H V C CNN
-F1 "DomsParts_ExtraMX" 150 200 20 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-X ~ 1 100 100 100 L 50 50 1 1 P
-X ~ 2 -100 -100 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# OLED-SSD1306-4pin-128x32_OLED-SSD1306-OLED-SSD1306-4pin-128x32
-#
-DEF OLED-SSD1306-4pin-128x32_OLED-SSD1306-OLED-SSD1306-4pin-128x32 U 0 40 Y Y 1 F N
-F0 "U" 0 400 50 H V C CNN
-F1 "OLED-SSD1306-4pin-128x32_OLED-SSD1306-OLED-SSD1306-4pin-128x32" 0 300 50 H V C CNN
-F2 "" 0 400 50 H I C CNN
-F3 "" 0 400 50 H I C CNN
-DRAW
-S 550 -200 -500 200 0 1 0 N
-X SDA 1 -700 150 195 R 50 50 1 1 B
-X SCL 2 -700 50 195 R 50 50 1 1 B
-X VCC 3 -700 -50 195 R 50 50 1 1 B
-X GND 4 -700 -150 195 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #

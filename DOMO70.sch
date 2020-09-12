@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5DFD965C
 P 1300 1100
 F 0 "MX1" H 1333 1323 60  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 675 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D1
+L DOMO70-rescue:1N4148-Diode D1
 U 1 1 5DFD9CE6
 P 1150 1400
 F 0 "D1" V 1196 1321 50  0000 R CNN
@@ -37,7 +37,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1150 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L proton_c:proton_c U1
+L DOMO70-rescue:proton_c-proton_c U1
 U 1 1 5DFDC68C
 P 2550 6000
 F 0 "U1" H 2525 4477 50  0000 C CNN
@@ -61,7 +61,7 @@ $EndComp
 Wire Wire Line
 	1150 1250 1250 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5DFEFBD3
 P 1750 1100
 F 0 "MX2" H 1783 1323 60  0000 C CNN
@@ -72,7 +72,7 @@ F 3 "" H 1125 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D2
+L DOMO70-rescue:1N4148-Diode D2
 U 1 1 5DFEFBD9
 P 1600 1400
 F 0 "D2" V 1646 1321 50  0000 R CNN
@@ -85,7 +85,7 @@ $EndComp
 Wire Wire Line
 	1600 1250 1700 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 5DFF08D3
 P 1300 1850
 F 0 "MX16" H 1333 2073 60  0000 C CNN
@@ -96,7 +96,7 @@ F 3 "" H 675 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D16
+L DOMO70-rescue:1N4148-Diode D16
 U 1 1 5DFF08D9
 P 1150 2150
 F 0 "D16" V 1196 2071 50  0000 R CNN
@@ -109,7 +109,7 @@ $EndComp
 Wire Wire Line
 	1150 2000 1250 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 5DFF10EE
 P 1750 1850
 F 0 "MX17" H 1783 2073 60  0000 C CNN
@@ -120,7 +120,7 @@ F 3 "" H 1125 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D17
+L DOMO70-rescue:1N4148-Diode D17
 U 1 1 5DFF10F4
 P 1600 2150
 F 0 "D17" V 1646 2071 50  0000 R CNN
@@ -133,7 +133,7 @@ $EndComp
 Wire Wire Line
 	1600 2000 1700 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5E002CD7
 P 2200 1100
 F 0 "MX3" H 2233 1323 60  0000 C CNN
@@ -144,7 +144,7 @@ F 3 "" H 1575 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D3
+L DOMO70-rescue:1N4148-Diode D3
 U 1 1 5E002CDD
 P 2050 1400
 F 0 "D3" V 2096 1321 50  0000 R CNN
@@ -157,7 +157,7 @@ $EndComp
 Wire Wire Line
 	2050 1250 2150 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5E002CE4
 P 2650 1100
 F 0 "MX4" H 2683 1323 60  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 2025 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D4
+L DOMO70-rescue:1N4148-Diode D4
 U 1 1 5E002CEA
 P 2500 1400
 F 0 "D4" V 2546 1321 50  0000 R CNN
@@ -181,7 +181,7 @@ $EndComp
 Wire Wire Line
 	2500 1250 2600 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 5E002CF1
 P 2200 1850
 F 0 "MX18" H 2233 2073 60  0000 C CNN
@@ -192,7 +192,7 @@ F 3 "" H 1575 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D18
+L DOMO70-rescue:1N4148-Diode D18
 U 1 1 5E002CF7
 P 2050 2150
 F 0 "D18" V 2096 2071 50  0000 R CNN
@@ -205,7 +205,7 @@ $EndComp
 Wire Wire Line
 	2050 2000 2150 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX19
 U 1 1 5E002CFE
 P 2650 1850
 F 0 "MX19" H 2683 2073 60  0000 C CNN
@@ -216,7 +216,7 @@ F 3 "" H 2025 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D19
+L DOMO70-rescue:1N4148-Diode D19
 U 1 1 5E002D04
 P 2500 2150
 F 0 "D19" V 2546 2071 50  0000 R CNN
@@ -229,7 +229,7 @@ $EndComp
 Wire Wire Line
 	2500 2000 2600 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX31
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX31
 U 1 1 5E01C116
 P 1300 2600
 F 0 "MX31" H 1333 2823 60  0000 C CNN
@@ -240,7 +240,7 @@ F 3 "" H 675 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D31
+L DOMO70-rescue:1N4148-Diode D31
 U 1 1 5E01C11C
 P 1150 2900
 F 0 "D31" V 1196 2821 50  0000 R CNN
@@ -251,7 +251,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1150 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX32
 U 1 1 5E01C123
 P 1750 2600
 F 0 "MX32" H 1783 2823 60  0000 C CNN
@@ -262,7 +262,7 @@ F 3 "" H 1125 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D32
+L DOMO70-rescue:1N4148-Diode D32
 U 1 1 5E01C129
 P 1600 2900
 F 0 "D32" V 1646 2821 50  0000 R CNN
@@ -275,7 +275,7 @@ $EndComp
 Wire Wire Line
 	1600 2750 1700 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX45
 U 1 1 5E01C130
 P 1300 3350
 F 0 "MX45" H 1333 3573 60  0000 C CNN
@@ -286,7 +286,7 @@ F 3 "" H 675 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D45
+L DOMO70-rescue:1N4148-Diode D45
 U 1 1 5E01C136
 P 1150 3650
 F 0 "D45" V 1196 3571 50  0000 R CNN
@@ -299,7 +299,7 @@ $EndComp
 Wire Wire Line
 	1150 3500 1250 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX46
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX46
 U 1 1 5E01C13D
 P 1750 3350
 F 0 "MX46" H 1783 3573 60  0000 C CNN
@@ -310,7 +310,7 @@ F 3 "" H 1125 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D46
+L DOMO70-rescue:1N4148-Diode D46
 U 1 1 5E01C143
 P 1600 3650
 F 0 "D46" V 1646 3571 50  0000 R CNN
@@ -323,7 +323,7 @@ $EndComp
 Wire Wire Line
 	1600 3500 1700 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX33
 U 1 1 5E01C14A
 P 2200 2600
 F 0 "MX33" H 2233 2823 60  0000 C CNN
@@ -334,7 +334,7 @@ F 3 "" H 1575 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D33
+L DOMO70-rescue:1N4148-Diode D33
 U 1 1 5E01C150
 P 2050 2900
 F 0 "D33" V 2096 2821 50  0000 R CNN
@@ -347,7 +347,7 @@ $EndComp
 Wire Wire Line
 	2050 2750 2150 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX34
 U 1 1 5E01C157
 P 2650 2600
 F 0 "MX34" H 2683 2823 60  0000 C CNN
@@ -358,7 +358,7 @@ F 3 "" H 2025 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D34
+L DOMO70-rescue:1N4148-Diode D34
 U 1 1 5E01C15D
 P 2500 2900
 F 0 "D34" V 2546 2821 50  0000 R CNN
@@ -371,7 +371,7 @@ $EndComp
 Wire Wire Line
 	2500 2750 2600 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX47
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX47
 U 1 1 5E01C164
 P 2200 3350
 F 0 "MX47" H 2233 3573 60  0000 C CNN
@@ -382,7 +382,7 @@ F 3 "" H 1575 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D47
+L DOMO70-rescue:1N4148-Diode D47
 U 1 1 5E01C16A
 P 2050 3650
 F 0 "D47" V 2096 3571 50  0000 R CNN
@@ -395,7 +395,7 @@ $EndComp
 Wire Wire Line
 	2050 3500 2150 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX48
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX48
 U 1 1 5E01C171
 P 2650 3350
 F 0 "MX48" H 2683 3573 60  0000 C CNN
@@ -406,7 +406,7 @@ F 3 "" H 2025 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D48
+L DOMO70-rescue:1N4148-Diode D48
 U 1 1 5E01C177
 P 2500 3650
 F 0 "D48" V 2546 3571 50  0000 R CNN
@@ -419,7 +419,7 @@ $EndComp
 Wire Wire Line
 	2500 3500 2600 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX59
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX59
 U 1 1 5E024A7C
 P 1300 4100
 F 0 "MX59" H 1333 4323 60  0000 C CNN
@@ -430,7 +430,7 @@ F 3 "" H 675 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D59
+L DOMO70-rescue:1N4148-Diode D59
 U 1 1 5E024A82
 P 1150 4400
 F 0 "D59" V 1196 4321 50  0000 R CNN
@@ -443,7 +443,7 @@ $EndComp
 Wire Wire Line
 	1150 4250 1200 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX60
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX60
 U 1 1 5E024A89
 P 1750 4100
 F 0 "MX60" H 1783 4323 60  0000 C CNN
@@ -454,7 +454,7 @@ F 3 "" H 1125 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D60
+L DOMO70-rescue:1N4148-Diode D60
 U 1 1 5E024A8F
 P 1600 4400
 F 0 "D60" V 1646 4321 50  0000 R CNN
@@ -467,7 +467,7 @@ $EndComp
 Wire Wire Line
 	1600 4250 1650 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX61
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX61
 U 1 1 5E024A96
 P 2200 4100
 F 0 "MX61" H 2233 4323 60  0000 C CNN
@@ -478,7 +478,7 @@ F 3 "" H 1575 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D61
+L DOMO70-rescue:1N4148-Diode D61
 U 1 1 5E024A9C
 P 2050 4400
 F 0 "D61" V 2096 4321 50  0000 R CNN
@@ -491,7 +491,7 @@ $EndComp
 Wire Wire Line
 	2050 4250 2100 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX62
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX62
 U 1 1 5E024AA3
 P 2650 4100
 F 0 "MX62" H 2683 4323 60  0000 C CNN
@@ -502,7 +502,7 @@ F 3 "" H 2025 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D62
+L DOMO70-rescue:1N4148-Diode D62
 U 1 1 5E024AA9
 P 2500 4400
 F 0 "D62" V 2546 4321 50  0000 R CNN
@@ -515,7 +515,7 @@ $EndComp
 Wire Wire Line
 	2500 4250 2550 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 5E055A02
 P 3100 1100
 F 0 "MX5" H 3133 1323 60  0000 C CNN
@@ -526,7 +526,7 @@ F 3 "" H 2475 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D5
+L DOMO70-rescue:1N4148-Diode D5
 U 1 1 5E055A08
 P 2950 1400
 F 0 "D5" V 2996 1321 50  0000 R CNN
@@ -539,7 +539,7 @@ $EndComp
 Wire Wire Line
 	2950 1250 3050 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 5E055A0F
 P 3550 1100
 F 0 "MX6" H 3583 1323 60  0000 C CNN
@@ -550,7 +550,7 @@ F 3 "" H 2925 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D6
+L DOMO70-rescue:1N4148-Diode D6
 U 1 1 5E055A15
 P 3400 1400
 F 0 "D6" V 3446 1321 50  0000 R CNN
@@ -563,7 +563,7 @@ $EndComp
 Wire Wire Line
 	3400 1250 3500 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX20
 U 1 1 5E055A1C
 P 3100 1850
 F 0 "MX20" H 3133 2073 60  0000 C CNN
@@ -574,7 +574,7 @@ F 3 "" H 2475 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D20
+L DOMO70-rescue:1N4148-Diode D20
 U 1 1 5E055A22
 P 2950 2150
 F 0 "D20" V 2996 2071 50  0000 R CNN
@@ -587,7 +587,7 @@ $EndComp
 Wire Wire Line
 	2950 2000 3050 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX21
 U 1 1 5E055A29
 P 3550 1850
 F 0 "MX21" H 3583 2073 60  0000 C CNN
@@ -598,7 +598,7 @@ F 3 "" H 2925 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D21
+L DOMO70-rescue:1N4148-Diode D21
 U 1 1 5E055A2F
 P 3400 2150
 F 0 "D21" V 3446 2071 50  0000 R CNN
@@ -611,7 +611,7 @@ $EndComp
 Wire Wire Line
 	3400 2000 3500 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 5E055A36
 P 4000 1100
 F 0 "MX7" H 4033 1323 60  0000 C CNN
@@ -622,7 +622,7 @@ F 3 "" H 3375 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D7
+L DOMO70-rescue:1N4148-Diode D7
 U 1 1 5E055A3C
 P 3850 1400
 F 0 "D7" V 3896 1321 50  0000 R CNN
@@ -635,7 +635,7 @@ $EndComp
 Wire Wire Line
 	3850 1250 3950 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 5E055A43
 P 4450 1100
 F 0 "MX8" H 4483 1323 60  0000 C CNN
@@ -646,7 +646,7 @@ F 3 "" H 3825 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D8
+L DOMO70-rescue:1N4148-Diode D8
 U 1 1 5E055A49
 P 4300 1400
 F 0 "D8" V 4346 1321 50  0000 R CNN
@@ -659,7 +659,7 @@ $EndComp
 Wire Wire Line
 	4300 1250 4400 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX22
 U 1 1 5E055A50
 P 4000 1850
 F 0 "MX22" H 4033 2073 60  0000 C CNN
@@ -670,7 +670,7 @@ F 3 "" H 3375 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D22
+L DOMO70-rescue:1N4148-Diode D22
 U 1 1 5E055A56
 P 3850 2150
 F 0 "D22" V 3896 2071 50  0000 R CNN
@@ -683,7 +683,7 @@ $EndComp
 Wire Wire Line
 	3850 2000 3950 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX23
 U 1 1 5E055A5D
 P 4450 1850
 F 0 "MX23" H 4483 2073 60  0000 C CNN
@@ -694,7 +694,7 @@ F 3 "" H 3825 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D23
+L DOMO70-rescue:1N4148-Diode D23
 U 1 1 5E055A63
 P 4300 2150
 F 0 "D23" V 4346 2071 50  0000 R CNN
@@ -707,7 +707,7 @@ $EndComp
 Wire Wire Line
 	4300 2000 4400 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX35
 U 1 1 5E055A6A
 P 3100 2600
 F 0 "MX35" H 3133 2823 60  0000 C CNN
@@ -718,7 +718,7 @@ F 3 "" H 2475 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D35
+L DOMO70-rescue:1N4148-Diode D35
 U 1 1 5E055A70
 P 2950 2900
 F 0 "D35" V 2996 2821 50  0000 R CNN
@@ -731,7 +731,7 @@ $EndComp
 Wire Wire Line
 	2950 2750 3050 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX36
 U 1 1 5E055A77
 P 3550 2600
 F 0 "MX36" H 3583 2823 60  0000 C CNN
@@ -742,7 +742,7 @@ F 3 "" H 2925 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D36
+L DOMO70-rescue:1N4148-Diode D36
 U 1 1 5E055A7D
 P 3400 2900
 F 0 "D36" V 3446 2821 50  0000 R CNN
@@ -755,7 +755,7 @@ $EndComp
 Wire Wire Line
 	3400 2750 3500 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX49
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX49
 U 1 1 5E055A84
 P 3100 3350
 F 0 "MX49" H 3133 3573 60  0000 C CNN
@@ -766,7 +766,7 @@ F 3 "" H 2475 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D49
+L DOMO70-rescue:1N4148-Diode D49
 U 1 1 5E055A8A
 P 2950 3650
 F 0 "D49" V 2996 3571 50  0000 R CNN
@@ -779,7 +779,7 @@ $EndComp
 Wire Wire Line
 	2950 3500 3050 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX50
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX50
 U 1 1 5E055A91
 P 3550 3350
 F 0 "MX50" H 3583 3573 60  0000 C CNN
@@ -790,7 +790,7 @@ F 3 "" H 2925 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D50
+L DOMO70-rescue:1N4148-Diode D50
 U 1 1 5E055A97
 P 3400 3650
 F 0 "D50" V 3446 3571 50  0000 R CNN
@@ -803,7 +803,7 @@ $EndComp
 Wire Wire Line
 	3400 3500 3500 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX37
 U 1 1 5E055A9E
 P 4000 2600
 F 0 "MX37" H 4033 2823 60  0000 C CNN
@@ -814,7 +814,7 @@ F 3 "" H 3375 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D37
+L DOMO70-rescue:1N4148-Diode D37
 U 1 1 5E055AA4
 P 3850 2900
 F 0 "D37" V 3896 2821 50  0000 R CNN
@@ -827,7 +827,7 @@ $EndComp
 Wire Wire Line
 	3850 2750 3950 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX38
 U 1 1 5E055AAB
 P 4450 2600
 F 0 "MX38" H 4483 2823 60  0000 C CNN
@@ -838,7 +838,7 @@ F 3 "" H 3825 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D38
+L DOMO70-rescue:1N4148-Diode D38
 U 1 1 5E055AB1
 P 4300 2900
 F 0 "D38" V 4346 2821 50  0000 R CNN
@@ -851,7 +851,7 @@ $EndComp
 Wire Wire Line
 	4300 2750 4400 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX51
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX51
 U 1 1 5E055AB8
 P 4000 3350
 F 0 "MX51" H 4033 3573 60  0000 C CNN
@@ -862,7 +862,7 @@ F 3 "" H 3375 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D51
+L DOMO70-rescue:1N4148-Diode D51
 U 1 1 5E055ABE
 P 3850 3650
 F 0 "D51" V 3896 3571 50  0000 R CNN
@@ -875,7 +875,7 @@ $EndComp
 Wire Wire Line
 	3850 3500 3950 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX52
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX52
 U 1 1 5E055AC5
 P 4450 3350
 F 0 "MX52" H 4483 3573 60  0000 C CNN
@@ -886,7 +886,7 @@ F 3 "" H 3825 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D52
+L DOMO70-rescue:1N4148-Diode D52
 U 1 1 5E055ACB
 P 4300 3650
 F 0 "D52" V 4346 3571 50  0000 R CNN
@@ -899,7 +899,7 @@ $EndComp
 Wire Wire Line
 	4300 3500 4400 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX64
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX64
 U 1 1 5E055AD2
 P 3550 4100
 F 0 "MX64" H 3583 4323 60  0000 C CNN
@@ -910,7 +910,7 @@ F 3 "" H 2925 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D64
+L DOMO70-rescue:1N4148-Diode D64
 U 1 1 5E055AD8
 P 3400 4400
 F 0 "D64" V 3446 4321 50  0000 R CNN
@@ -921,7 +921,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3400 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX65
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX65
 U 1 1 5E055ADF
 P 4000 4100
 F 0 "MX65" H 4033 4323 60  0000 C CNN
@@ -932,7 +932,7 @@ F 3 "" H 3375 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D65
+L DOMO70-rescue:1N4148-Diode D65
 U 1 1 5E055AE5
 P 3850 4400
 F 0 "D65" V 3896 4321 50  0000 R CNN
@@ -945,7 +945,7 @@ $EndComp
 Wire Wire Line
 	3850 4250 3900 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX57
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX57
 U 1 1 5E055AEC
 P 6700 3350
 F 0 "MX57" H 6733 3573 60  0000 C CNN
@@ -956,7 +956,7 @@ F 3 "" H 6075 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D57
+L DOMO70-rescue:1N4148-Diode D57
 U 1 1 5E055AF2
 P 6550 3650
 F 0 "D57" V 6596 3571 50  0000 R CNN
@@ -969,7 +969,7 @@ $EndComp
 Wire Wire Line
 	6550 3500 6650 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX69
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX69
 U 1 1 5E055AF9
 P 5800 4100
 F 0 "MX69" H 5833 4323 60  0000 C CNN
@@ -980,7 +980,7 @@ F 3 "" H 5175 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D69
+L DOMO70-rescue:1N4148-Diode D69
 U 1 1 5E055AFF
 P 5650 4400
 F 0 "D69" V 5696 4321 50  0000 R CNN
@@ -993,7 +993,7 @@ $EndComp
 Wire Wire Line
 	5650 4250 5750 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX70
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX70
 U 1 1 5E09F4C3
 P 6250 4100
 F 0 "MX70" H 6283 4323 60  0000 C CNN
@@ -1004,7 +1004,7 @@ F 3 "" H 5625 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D70
+L DOMO70-rescue:1N4148-Diode D70
 U 1 1 5E09F4C9
 P 6100 4400
 F 0 "D70" V 6146 4321 50  0000 R CNN
@@ -1017,7 +1017,7 @@ $EndComp
 Wire Wire Line
 	6100 4250 6200 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX71
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX71
 U 1 1 5E09F4D0
 P 6700 4100
 F 0 "MX71" H 6733 4323 60  0000 C CNN
@@ -1028,7 +1028,7 @@ F 3 "" H 6075 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D71
+L DOMO70-rescue:1N4148-Diode D71
 U 1 1 5E09F4D6
 P 6550 4400
 F 0 "D71" V 6596 4321 50  0000 R CNN
@@ -1041,7 +1041,7 @@ $EndComp
 Wire Wire Line
 	6550 4250 6650 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX39
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX39
 U 1 1 5E09F4DD
 P 4900 2600
 F 0 "MX39" H 4933 2823 60  0000 C CNN
@@ -1052,7 +1052,7 @@ F 3 "" H 4275 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D39
+L DOMO70-rescue:1N4148-Diode D39
 U 1 1 5E09F4E3
 P 4750 2900
 F 0 "D39" V 4796 2821 50  0000 R CNN
@@ -1065,7 +1065,7 @@ $EndComp
 Wire Wire Line
 	4750 2750 4850 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX40
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX40
 U 1 1 5E09F4EA
 P 5350 2600
 F 0 "MX40" H 5383 2823 60  0000 C CNN
@@ -1076,7 +1076,7 @@ F 3 "" H 4725 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D40
+L DOMO70-rescue:1N4148-Diode D40
 U 1 1 5E09F4F0
 P 5200 2900
 F 0 "D40" V 5246 2821 50  0000 R CNN
@@ -1089,7 +1089,7 @@ $EndComp
 Wire Wire Line
 	5200 2750 5300 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX72
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX72
 U 1 1 5E09F4F7
 P 7150 4100
 F 0 "MX72" H 7183 4323 60  0000 C CNN
@@ -1100,7 +1100,7 @@ F 3 "" H 6525 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D72
+L DOMO70-rescue:1N4148-Diode D72
 U 1 1 5E09F4FD
 P 7000 4400
 F 0 "D72" V 7046 4321 50  0000 R CNN
@@ -1113,7 +1113,7 @@ $EndComp
 Wire Wire Line
 	7000 4250 7100 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX68
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX68
 U 1 1 5E09F504
 P 5350 4100
 F 0 "MX68" H 5383 4323 60  0000 C CNN
@@ -1124,7 +1124,7 @@ F 3 "" H 4725 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D68
+L DOMO70-rescue:1N4148-Diode D68
 U 1 1 5E09F50A
 P 5200 4400
 F 0 "D68" V 5246 4321 50  0000 R CNN
@@ -1137,7 +1137,7 @@ $EndComp
 Wire Wire Line
 	5200 4250 5300 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX41
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX41
 U 1 1 5E09F511
 P 5800 2600
 F 0 "MX41" H 5833 2823 60  0000 C CNN
@@ -1148,7 +1148,7 @@ F 3 "" H 5175 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D41
+L DOMO70-rescue:1N4148-Diode D41
 U 1 1 5E09F517
 P 5650 2900
 F 0 "D41" V 5696 2821 50  0000 R CNN
@@ -1161,7 +1161,7 @@ $EndComp
 Wire Wire Line
 	5650 2750 5750 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX42
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX42
 U 1 1 5E09F51E
 P 6250 2600
 F 0 "MX42" H 6283 2823 60  0000 C CNN
@@ -1172,7 +1172,7 @@ F 3 "" H 5625 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D42
+L DOMO70-rescue:1N4148-Diode D42
 U 1 1 5E09F524
 P 6100 2900
 F 0 "D42" V 6146 2821 50  0000 R CNN
@@ -1185,7 +1185,7 @@ $EndComp
 Wire Wire Line
 	6100 2750 6200 2750
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX25
 U 1 1 5E09F52B
 P 5350 1850
 F 0 "MX25" H 5383 2073 60  0000 C CNN
@@ -1196,7 +1196,7 @@ F 3 "" H 4725 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D25
+L DOMO70-rescue:1N4148-Diode D25
 U 1 1 5E09F531
 P 5200 2150
 F 0 "D25" V 5246 2071 50  0000 R CNN
@@ -1209,7 +1209,7 @@ $EndComp
 Wire Wire Line
 	5200 2000 5300 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX26
 U 1 1 5E09F538
 P 5800 1850
 F 0 "MX26" H 5833 2073 60  0000 C CNN
@@ -1220,7 +1220,7 @@ F 3 "" H 5175 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D26
+L DOMO70-rescue:1N4148-Diode D26
 U 1 1 5E09F53E
 P 5650 2150
 F 0 "D26" V 5696 2071 50  0000 R CNN
@@ -1233,7 +1233,7 @@ $EndComp
 Wire Wire Line
 	5650 2000 5750 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX27
 U 1 1 5E09F55F
 P 6250 1850
 F 0 "MX27" H 6283 2073 60  0000 C CNN
@@ -1244,7 +1244,7 @@ F 3 "" H 5625 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D27
+L DOMO70-rescue:1N4148-Diode D27
 U 1 1 5E09F565
 P 6100 2150
 F 0 "D27" V 6146 2071 50  0000 R CNN
@@ -1257,7 +1257,7 @@ $EndComp
 Wire Wire Line
 	6100 2000 6200 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX28
 U 1 1 5E09F56C
 P 6700 1850
 F 0 "MX28" H 6733 2073 60  0000 C CNN
@@ -1268,7 +1268,7 @@ F 3 "" H 6075 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D28
+L DOMO70-rescue:1N4148-Diode D28
 U 1 1 5E09F572
 P 6550 2150
 F 0 "D28" V 6596 2071 50  0000 R CNN
@@ -1281,7 +1281,7 @@ $EndComp
 Wire Wire Line
 	6550 2000 6650 2000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX53
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX53
 U 1 1 5E09F5C7
 P 4900 3350
 F 0 "MX53" H 4933 3573 60  0000 C CNN
@@ -1292,7 +1292,7 @@ F 3 "" H 4275 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D53
+L DOMO70-rescue:1N4148-Diode D53
 U 1 1 5E09F5CD
 P 4750 3650
 F 0 "D53" V 4796 3571 50  0000 R CNN
@@ -1305,7 +1305,7 @@ $EndComp
 Wire Wire Line
 	4750 3500 4850 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX54
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX54
 U 1 1 5E09F5D4
 P 5350 3350
 F 0 "MX54" H 5383 3573 60  0000 C CNN
@@ -1316,7 +1316,7 @@ F 3 "" H 4725 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D54
+L DOMO70-rescue:1N4148-Diode D54
 U 1 1 5E09F5DA
 P 5200 3650
 F 0 "D54" V 5246 3571 50  0000 R CNN
@@ -1329,7 +1329,7 @@ $EndComp
 Wire Wire Line
 	5200 3500 5300 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX67
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX67
 U 1 1 5E09F5E1
 P 4900 4100
 F 0 "MX67" H 4933 4323 60  0000 C CNN
@@ -1340,7 +1340,7 @@ F 3 "" H 4275 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D67
+L DOMO70-rescue:1N4148-Diode D67
 U 1 1 5E09F5E7
 P 4750 4400
 F 0 "D67" V 4796 4321 50  0000 R CNN
@@ -1353,7 +1353,7 @@ $EndComp
 Wire Wire Line
 	4750 4250 4850 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX43
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX43
 U 1 1 5E09F5EE
 P 6700 2600
 F 0 "MX43" H 6733 2823 60  0000 C CNN
@@ -1364,7 +1364,7 @@ F 3 "" H 6075 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D43
+L DOMO70-rescue:1N4148-Diode D43
 U 1 1 5E09F5F4
 P 6550 2900
 F 0 "D43" V 6596 2821 50  0000 R CNN
@@ -1375,7 +1375,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6550 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX55
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX55
 U 1 1 5E09F5FB
 P 5800 3350
 F 0 "MX55" H 5833 3573 60  0000 C CNN
@@ -1386,7 +1386,7 @@ F 3 "" H 5175 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D55
+L DOMO70-rescue:1N4148-Diode D55
 U 1 1 5E09F601
 P 5650 3650
 F 0 "D55" V 5696 3571 50  0000 R CNN
@@ -1399,7 +1399,7 @@ $EndComp
 Wire Wire Line
 	5650 3500 5750 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX44
 U 1 1 5E09F615
 P 7150 2600
 F 0 "MX44" H 7183 2823 60  0000 C CNN
@@ -1410,7 +1410,7 @@ F 3 "" H 6525 2575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D44
+L DOMO70-rescue:1N4148-Diode D44
 U 1 1 5E09F61B
 P 7000 2900
 F 0 "D44" V 7046 2821 50  0000 R CNN
@@ -1421,7 +1421,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7000 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX58
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX58
 U 1 1 5E09F622
 P 7150 3350
 F 0 "MX58" H 7183 3573 60  0000 C CNN
@@ -1432,7 +1432,7 @@ F 3 "" H 6525 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D58
+L DOMO70-rescue:1N4148-Diode D58
 U 1 1 5E09F628
 P 7000 3650
 F 0 "D58" V 7046 3571 50  0000 R CNN
@@ -1445,7 +1445,7 @@ $EndComp
 Wire Wire Line
 	7000 3500 7100 3500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX30
 U 1 1 5E09F62F
 P 7600 1850
 F 0 "MX30" H 7633 2073 60  0000 C CNN
@@ -1456,7 +1456,7 @@ F 3 "" H 6975 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D30
+L DOMO70-rescue:1N4148-Diode D30
 U 1 1 5E09F635
 P 7450 2150
 F 0 "D30" V 7496 2071 50  0000 R CNN
@@ -1467,7 +1467,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7450 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX63
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX63
 U 1 1 5E09F663
 P 3100 4100
 F 0 "MX63" H 3133 4323 60  0000 C CNN
@@ -1478,7 +1478,7 @@ F 3 "" H 2475 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D63
+L DOMO70-rescue:1N4148-Diode D63
 U 1 1 5E09F669
 P 2950 4400
 F 0 "D63" V 2996 4321 50  0000 R CNN
@@ -1491,7 +1491,7 @@ $EndComp
 Wire Wire Line
 	2950 4250 3050 4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX66
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX66
 U 1 1 5E09F670
 P 4450 4100
 F 0 "MX66" H 4483 4323 60  0000 C CNN
@@ -1502,7 +1502,7 @@ F 3 "" H 3825 4075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D66
+L DOMO70-rescue:1N4148-Diode D66
 U 1 1 5E09F676
 P 4300 4400
 F 0 "D66" V 4346 4321 50  0000 R CNN
@@ -1806,7 +1806,7 @@ ROW3
 Text GLabel 3550 5800 2    50   Input ~ 0
 ROW4
 $Comp
-L power:VCC #PWR08
+L DOMO70-rescue:VCC-power #PWR08
 U 1 1 5E3C87C2
 P 5000 6850
 F 0 "#PWR08" H 5000 6700 50  0001 C CNN
@@ -1817,7 +1817,7 @@ F 3 "" H 5000 6850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR09
+L DOMO70-rescue:GND-power #PWR09
 U 1 1 5E3CC44B
 P 5000 6950
 F 0 "#PWR09" H 5000 6700 50  0001 C CNN
@@ -1828,7 +1828,7 @@ F 3 "" H 5000 6950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR03
+L DOMO70-rescue:GND-power #PWR03
 U 1 1 5E3CCA73
 P 3550 5100
 F 0 "#PWR03" H 3550 4850 50  0001 C CNN
@@ -1839,7 +1839,7 @@ F 3 "" H 3550 5100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR04
+L DOMO70-rescue:GND-power #PWR04
 U 1 1 5E3CE5D9
 P 1500 5200
 F 0 "#PWR04" H 1500 4950 50  0001 C CNN
@@ -1850,7 +1850,7 @@ F 3 "" H 1500 5200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR05
+L DOMO70-rescue:GND-power #PWR05
 U 1 1 5E3D02E2
 P 1500 5300
 F 0 "#PWR05" H 1500 5050 50  0001 C CNN
@@ -1861,7 +1861,7 @@ F 3 "" H 1500 5300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR06
+L DOMO70-rescue:VCC-power #PWR06
 U 1 1 5E3DF847
 P 3550 5300
 F 0 "#PWR06" H 3550 5150 50  0001 C CNN
@@ -1884,7 +1884,7 @@ ENC1A
 Text GLabel 8500 2400 2    50   Input ~ 0
 ENC1B
 $Comp
-L power:GND #PWR01
+L DOMO70-rescue:GND-power #PWR01
 U 1 1 5E3E5007
 P 8500 2500
 F 0 "#PWR01" H 8500 2250 50  0001 C CNN
@@ -1895,7 +1895,7 @@ F 3 "" H 8500 2500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR02
+L DOMO70-rescue:GND-power #PWR02
 U 1 1 5E3E5D10
 P 8500 4000
 F 0 "#PWR02" H 8500 3750 50  0001 C CNN
@@ -1918,7 +1918,7 @@ ENC2B
 Text GLabel 1500 7200 0    50   Input ~ 0
 ENC2A
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 5E1DC192
 P 4900 1100
 F 0 "MX9" H 4933 1323 60  0000 C CNN
@@ -1929,7 +1929,7 @@ F 3 "" H 4275 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D9
+L DOMO70-rescue:1N4148-Diode D9
 U 1 1 5E1FDEB8
 P 4750 1400
 F 0 "D9" V 4796 1321 50  0000 R CNN
@@ -1940,7 +1940,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4750 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 5E09F545
 P 5350 1100
 F 0 "MX10" H 5383 1323 60  0000 C CNN
@@ -1951,7 +1951,7 @@ F 3 "" H 4725 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D10
+L DOMO70-rescue:1N4148-Diode D10
 U 1 1 5E09F54B
 P 5200 1400
 F 0 "D10" V 5246 1321 50  0000 R CNN
@@ -1964,7 +1964,7 @@ $EndComp
 Wire Wire Line
 	5200 1250 5300 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 5E09F552
 P 5800 1100
 F 0 "MX11" H 5833 1323 60  0000 C CNN
@@ -1975,7 +1975,7 @@ F 3 "" H 5175 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D11
+L DOMO70-rescue:1N4148-Diode D11
 U 1 1 5E09F558
 P 5650 1400
 F 0 "D11" V 5696 1321 50  0000 R CNN
@@ -1988,7 +1988,7 @@ $EndComp
 Wire Wire Line
 	5650 1250 5750 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 5E09F579
 P 6250 1100
 F 0 "MX12" H 6283 1323 60  0000 C CNN
@@ -1999,7 +1999,7 @@ F 3 "" H 5625 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D12
+L DOMO70-rescue:1N4148-Diode D12
 U 1 1 5E09F57F
 P 6100 1400
 F 0 "D12" V 6146 1321 50  0000 R CNN
@@ -2012,7 +2012,7 @@ $EndComp
 Wire Wire Line
 	6100 1250 6200 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 5E09F586
 P 6700 1100
 F 0 "MX13" H 6733 1323 60  0000 C CNN
@@ -2023,7 +2023,7 @@ F 3 "" H 6075 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D13
+L DOMO70-rescue:1N4148-Diode D13
 U 1 1 5E09F58C
 P 6550 1400
 F 0 "D13" V 6596 1321 50  0000 R CNN
@@ -2036,7 +2036,7 @@ $EndComp
 Wire Wire Line
 	6550 1250 6650 1250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX14
 U 1 1 5E09F649
 P 7150 1100
 F 0 "MX14" H 7183 1323 60  0000 C CNN
@@ -2047,7 +2047,7 @@ F 3 "" H 6525 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D14
+L DOMO70-rescue:1N4148-Diode D14
 U 1 1 5E09F64F
 P 7000 1400
 F 0 "D14" V 7046 1321 50  0000 R CNN
@@ -2058,7 +2058,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7000 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 5E09F656
 P 7600 1100
 F 0 "MX15" H 7633 1323 60  0000 C CNN
@@ -2069,7 +2069,7 @@ F 3 "" H 6975 1075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D15
+L DOMO70-rescue:1N4148-Diode D15
 U 1 1 5E09F65C
 P 7450 1400
 F 0 "D15" V 7496 1321 50  0000 R CNN
@@ -2080,7 +2080,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7450 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX29
 U 1 1 5E09F67D
 P 7150 1850
 F 0 "MX29" H 7183 2073 60  0000 C CNN
@@ -2091,7 +2091,7 @@ F 3 "" H 6525 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D29
+L DOMO70-rescue:1N4148-Diode D29
 U 1 1 5E09F683
 P 7000 2150
 F 0 "D29" V 7046 2071 50  0000 R CNN
@@ -2113,7 +2113,7 @@ Connection ~ 6550 1550
 Wire Wire Line
 	6550 1550 7000 1550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX24
 U 1 1 5E21E26B
 P 4900 1850
 F 0 "MX24" H 4933 2073 60  0000 C CNN
@@ -2124,7 +2124,7 @@ F 3 "" H 4275 1825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D24
+L DOMO70-rescue:1N4148-Diode D24
 U 1 1 5E21E271
 P 4750 2150
 F 0 "D24" V 4796 2071 50  0000 R CNN
@@ -2168,7 +2168,7 @@ Wire Wire Line
 Connection ~ 4300 3050
 Connection ~ 4750 3050
 $Comp
-L Diode:1N4148 DE2
+L DOMO70-rescue:1N4148-Diode DE2
 U 1 1 5E6A75B4
 P 7450 4400
 F 0 "DE2" V 7496 4321 50  0000 R CNN
@@ -2197,7 +2197,7 @@ Wire Wire Line
 Connection ~ 2050 4550
 Connection ~ 5650 4550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX56
+L DOMO70-rescue:MX-NoLED-MX_Alps_Hybrid MX56
 U 1 1 5EAC1E1F
 P 6250 3350
 F 0 "MX56" H 6283 3573 60  0000 C CNN
@@ -2208,7 +2208,7 @@ F 3 "" H 5625 3325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D56
+L DOMO70-rescue:1N4148-Diode D56
 U 1 1 5EAC1E25
 P 6100 3650
 F 0 "D56" V 6146 3571 50  0000 R CNN
@@ -2263,7 +2263,7 @@ Connection ~ 3700 3300
 Connection ~ 3850 4550
 Connection ~ 4150 3300
 $Comp
-L Device:Rotary_Encoder_Switch SW1
+L DOMO70-rescue:Rotary_Encoder_Switch-Device SW1
 U 1 1 5DFDA3D1
 P 8200 2500
 F 0 "SW1" H 8200 2867 50  0000 C CNN
@@ -2274,7 +2274,7 @@ F 3 "~" H 8200 2760 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Rotary_Encoder_Switch SW2
+L DOMO70-rescue:Rotary_Encoder_Switch-Device SW2
 U 1 1 5DFDAD55
 P 8200 4000
 F 0 "SW2" H 8200 4367 50  0000 C CNN
@@ -2320,7 +2320,7 @@ NoConn ~ 3550 6400
 NoConn ~ 3550 6300
 NoConn ~ 3550 7400
 $Comp
-L Diode:1N4148 DE1
+L DOMO70-rescue:1N4148-Diode DE1
 U 1 1 5E6A5E71
 P 7450 2900
 F 0 "DE1" V 7496 2821 50  0000 R CNN
@@ -2413,7 +2413,7 @@ F 3 "" H 5600 5550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR07
+L DOMO70-rescue:GND-power #PWR07
 U 1 1 5F1A5FE2
 P 5900 5600
 F 0 "#PWR07" H 5900 5350 50  0001 C CNN
@@ -2735,7 +2735,7 @@ F 3 "" H 5600 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0101
+L DOMO70-rescue:GND-power #PWR0101
 U 1 1 5FA19583
 P 5900 6050
 F 0 "#PWR0101" H 5900 5800 50  0001 C CNN
@@ -2747,4 +2747,14 @@ F 3 "" H 5900 6050 50  0001 C CNN
 $EndComp
 Text GLabel 5300 5950 0    50   Input ~ 0
 SPK
+NoConn ~ 2700 4700
+NoConn ~ 2350 4700
+NoConn ~ 2250 4700
+NoConn ~ 2200 4700
+NoConn ~ 1500 6450
+NoConn ~ 3550 5200
+NoConn ~ 3550 5000
+NoConn ~ 2150 4700
+NoConn ~ 1500 7000
+NoConn ~ 1500 7400
 $EndSCHEMATC
