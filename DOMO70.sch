@@ -2263,17 +2263,6 @@ Connection ~ 3700 3300
 Connection ~ 3850 4550
 Connection ~ 4150 3300
 $Comp
-L DOMO70-rescue:Rotary_Encoder_Switch-Device SW1
-U 1 1 5DFDA3D1
-P 8200 2500
-F 0 "SW1" H 8200 2867 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 8200 2776 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8050 2660 50  0001 C CNN
-F 3 "~" H 8200 2760 50  0001 C CNN
-	1    8200 2500
-	-1   0    0    1   
-$EndComp
-$Comp
 L DOMO70-rescue:Rotary_Encoder_Switch-Device SW2
 U 1 1 5DFDAD55
 P 8200 4000
@@ -2757,4 +2746,15 @@ NoConn ~ 3550 5000
 NoConn ~ 2150 4700
 NoConn ~ 1500 7000
 NoConn ~ 1500 7400
+$Comp
+L DOMO70-rescue:Rotary_Encoder_Switch-Device SW1
+U 1 1 5DFDA3D1
+P 8200 2500
+F 0 "SW1" H 8200 2867 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 8200 2776 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8050 2660 50  0001 C CNN
+F 3 "~" H 8200 2760 50  0001 C CNN
+	1    8200 2500
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
